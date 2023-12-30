@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condicional03", "Condiciona
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condicional04", "Condicional04\Condicional04.csproj", "{E76822AD-7CE6-4EE8-8BF4-4F5C559B6A3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicional05", "Condicional05\Condicional05.csproj", "{B6573F5E-CE67-42D8-BF5A-1A88F7A7F492}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condicional05", "Condicional05\Condicional05.csproj", "{B6573F5E-CE67-42D8-BF5A-1A88F7A7F492}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicional06", "Condicional06\Condicional06.csproj", "{0631EB09-94B7-4CC7-BF1B-84F323A8FA21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condicional06", "Condicional06\Condicional06.csproj", "{0631EB09-94B7-4CC7-BF1B-84F323A8FA21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicional07", "Condicional07\Condicional07.csproj", "{A5AF5F5C-99F6-428C-B554-90D7EF0E10D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{0631EB09-94B7-4CC7-BF1B-84F323A8FA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0631EB09-94B7-4CC7-BF1B-84F323A8FA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0631EB09-94B7-4CC7-BF1B-84F323A8FA21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5AF5F5C-99F6-428C-B554-90D7EF0E10D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AF5F5C-99F6-428C-B554-90D7EF0E10D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AF5F5C-99F6-428C-B554-90D7EF0E10D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AF5F5C-99F6-428C-B554-90D7EF0E10D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
